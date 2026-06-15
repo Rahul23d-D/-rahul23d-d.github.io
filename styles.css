@@ -145,6 +145,7 @@ body {
     border-radius: 50%;
     border: 5px solid var(--secondary-color);
     object-fit: cover;
+   object-position: top;
     margin-bottom: 30px;
     box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
     transition: var(--transition);
